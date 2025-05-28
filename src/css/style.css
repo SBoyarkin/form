@@ -1,3 +1,36 @@
-body {
-    color: #999;
+body{
+  font-family: Calibri;
+}
+
+.btn {
+  background-color: #ff4040;
+  width: 12em;
+  height: 3em;
+  border-radius: 0.5em;
+  color: white;
+  text-align: center;
+  align-content: center;
+  user-select: none;
+}
+.btn:hover {
+    background-color: #ff2121;
+}
+.popover {
+  border: solid #8a8a8a 1px;
+  border-radius: 0.5em;
+  width: fit-content;
+}
+
+.popover-title {
+
+  background-color: #cfcfcf;
+  padding: 5px;
+
+}
+
+.popover-content {
+  max-width: 15em;
+  padding-left: 1em ;
+  padding-right: 1em;
+
 }
