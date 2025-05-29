@@ -12,8 +12,6 @@ testPopover = {
 const popoverBtn = new Btn("Click to toggle popover");
 popoverBtn.createBtn(document.body, testPopover);
 
-
-
 let testPopover1;
 testPopover1 = {
   message: `And heres dome amazinf content. Its very engaging. Rigрt?`,
