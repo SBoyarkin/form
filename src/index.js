@@ -1,7 +1,5 @@
 import "./css/style.css";
-import { Popover } from "./popover";
 import { Btn } from "./btn";
-import "./js/app";
 
 let testPopover;
 testPopover = {
